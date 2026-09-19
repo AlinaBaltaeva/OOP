@@ -1,0 +1,14 @@
+D:\3 курс\ооп\Part2\bin\Debug\net8.0\Part2.exe
+D:\3 курс\ооп\Part2\bin\Debug\net8.0\Part2.deps.json
+D:\3 курс\ооп\Part2\bin\Debug\net8.0\Part2.runtimeconfig.json
+D:\3 курс\ооп\Part2\bin\Debug\net8.0\Part2.dll
+D:\3 курс\ооп\Part2\bin\Debug\net8.0\Part2.pdb
+D:\3 курс\ооп\Part2\obj\Debug\net8.0\Part2.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс\ооп\Part2\obj\Debug\net8.0\Part2.AssemblyInfoInputs.cache
+D:\3 курс\ооп\Part2\obj\Debug\net8.0\Part2.AssemblyInfo.cs
+D:\3 курс\ооп\Part2\obj\Debug\net8.0\Part2.csproj.CoreCompileInputs.cache
+D:\3 курс\ооп\Part2\obj\Debug\net8.0\Part2.dll
+D:\3 курс\ооп\Part2\obj\Debug\net8.0\refint\Part2.dll
+D:\3 курс\ооп\Part2\obj\Debug\net8.0\Part2.pdb
+D:\3 курс\ооп\Part2\obj\Debug\net8.0\Part2.genruntimeconfig.cache
+D:\3 курс\ооп\Part2\obj\Debug\net8.0\ref\Part2.dll
