@@ -1,0 +1,14 @@
+C:\Users\Вован\source\repos\NatarovLAB9\NatarovLAB9\obj\Debug\net8.0\NatarovLAB9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вован\source\repos\NatarovLAB9\NatarovLAB9\obj\Debug\net8.0\NatarovLAB9.AssemblyInfoInputs.cache
+C:\Users\Вован\source\repos\NatarovLAB9\NatarovLAB9\obj\Debug\net8.0\NatarovLAB9.AssemblyInfo.cs
+C:\Users\Вован\source\repos\NatarovLAB9\NatarovLAB9\obj\Debug\net8.0\NatarovLAB9.csproj.CoreCompileInputs.cache
+C:\Users\Вован\source\repos\NatarovLAB9\NatarovLAB9\bin\Debug\net8.0\NatarovLAB9.exe
+C:\Users\Вован\source\repos\NatarovLAB9\NatarovLAB9\bin\Debug\net8.0\NatarovLAB9.deps.json
+C:\Users\Вован\source\repos\NatarovLAB9\NatarovLAB9\bin\Debug\net8.0\NatarovLAB9.runtimeconfig.json
+C:\Users\Вован\source\repos\NatarovLAB9\NatarovLAB9\bin\Debug\net8.0\NatarovLAB9.dll
+C:\Users\Вован\source\repos\NatarovLAB9\NatarovLAB9\bin\Debug\net8.0\NatarovLAB9.pdb
+C:\Users\Вован\source\repos\NatarovLAB9\NatarovLAB9\obj\Debug\net8.0\NatarovLAB9.dll
+C:\Users\Вован\source\repos\NatarovLAB9\NatarovLAB9\obj\Debug\net8.0\refint\NatarovLAB9.dll
+C:\Users\Вован\source\repos\NatarovLAB9\NatarovLAB9\obj\Debug\net8.0\NatarovLAB9.pdb
+C:\Users\Вован\source\repos\NatarovLAB9\NatarovLAB9\obj\Debug\net8.0\NatarovLAB9.genruntimeconfig.cache
+C:\Users\Вован\source\repos\NatarovLAB9\NatarovLAB9\obj\Debug\net8.0\ref\NatarovLAB9.dll
