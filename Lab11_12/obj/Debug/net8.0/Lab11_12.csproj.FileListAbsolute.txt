@@ -1,0 +1,14 @@
+D:\3 курс\ооп\labunit2\Lab11\Lab11\bin\Debug\net8.0\Lab11_12.exe
+D:\3 курс\ооп\labunit2\Lab11\Lab11\bin\Debug\net8.0\Lab11_12.deps.json
+D:\3 курс\ооп\labunit2\Lab11\Lab11\bin\Debug\net8.0\Lab11_12.runtimeconfig.json
+D:\3 курс\ооп\labunit2\Lab11\Lab11\bin\Debug\net8.0\Lab11_12.dll
+D:\3 курс\ооп\labunit2\Lab11\Lab11\bin\Debug\net8.0\Lab11_12.pdb
+D:\3 курс\ооп\labunit2\Lab11\Lab11\obj\Debug\net8.0\Lab11_12.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс\ооп\labunit2\Lab11\Lab11\obj\Debug\net8.0\Lab11_12.AssemblyInfoInputs.cache
+D:\3 курс\ооп\labunit2\Lab11\Lab11\obj\Debug\net8.0\Lab11_12.AssemblyInfo.cs
+D:\3 курс\ооп\labunit2\Lab11\Lab11\obj\Debug\net8.0\Lab11_12.csproj.CoreCompileInputs.cache
+D:\3 курс\ооп\labunit2\Lab11\Lab11\obj\Debug\net8.0\Lab11_12.dll
+D:\3 курс\ооп\labunit2\Lab11\Lab11\obj\Debug\net8.0\refint\Lab11_12.dll
+D:\3 курс\ооп\labunit2\Lab11\Lab11\obj\Debug\net8.0\Lab11_12.pdb
+D:\3 курс\ооп\labunit2\Lab11\Lab11\obj\Debug\net8.0\Lab11_12.genruntimeconfig.cache
+D:\3 курс\ооп\labunit2\Lab11\Lab11\obj\Debug\net8.0\ref\Lab11_12.dll

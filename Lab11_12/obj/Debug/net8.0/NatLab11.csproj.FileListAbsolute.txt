@@ -1,0 +1,14 @@
+C:\Users\Вован\Desktop\учеба\Информактика\АДСКОЕ ХРЮЧЕВО228\NatLab11\NatLab11\bin\Debug\net8.0\NatLab11.exe
+C:\Users\Вован\Desktop\учеба\Информактика\АДСКОЕ ХРЮЧЕВО228\NatLab11\NatLab11\bin\Debug\net8.0\NatLab11.deps.json
+C:\Users\Вован\Desktop\учеба\Информактика\АДСКОЕ ХРЮЧЕВО228\NatLab11\NatLab11\bin\Debug\net8.0\NatLab11.runtimeconfig.json
+C:\Users\Вован\Desktop\учеба\Информактика\АДСКОЕ ХРЮЧЕВО228\NatLab11\NatLab11\bin\Debug\net8.0\NatLab11.dll
+C:\Users\Вован\Desktop\учеба\Информактика\АДСКОЕ ХРЮЧЕВО228\NatLab11\NatLab11\bin\Debug\net8.0\NatLab11.pdb
+C:\Users\Вован\Desktop\учеба\Информактика\АДСКОЕ ХРЮЧЕВО228\NatLab11\NatLab11\obj\Debug\net8.0\NatLab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вован\Desktop\учеба\Информактика\АДСКОЕ ХРЮЧЕВО228\NatLab11\NatLab11\obj\Debug\net8.0\NatLab11.AssemblyInfoInputs.cache
+C:\Users\Вован\Desktop\учеба\Информактика\АДСКОЕ ХРЮЧЕВО228\NatLab11\NatLab11\obj\Debug\net8.0\NatLab11.AssemblyInfo.cs
+C:\Users\Вован\Desktop\учеба\Информактика\АДСКОЕ ХРЮЧЕВО228\NatLab11\NatLab11\obj\Debug\net8.0\NatLab11.csproj.CoreCompileInputs.cache
+C:\Users\Вован\Desktop\учеба\Информактика\АДСКОЕ ХРЮЧЕВО228\NatLab11\NatLab11\obj\Debug\net8.0\NatLab11.dll
+C:\Users\Вован\Desktop\учеба\Информактика\АДСКОЕ ХРЮЧЕВО228\NatLab11\NatLab11\obj\Debug\net8.0\refint\NatLab11.dll
+C:\Users\Вован\Desktop\учеба\Информактика\АДСКОЕ ХРЮЧЕВО228\NatLab11\NatLab11\obj\Debug\net8.0\NatLab11.pdb
+C:\Users\Вован\Desktop\учеба\Информактика\АДСКОЕ ХРЮЧЕВО228\NatLab11\NatLab11\obj\Debug\net8.0\NatLab11.genruntimeconfig.cache
+C:\Users\Вован\Desktop\учеба\Информактика\АДСКОЕ ХРЮЧЕВО228\NatLab11\NatLab11\obj\Debug\net8.0\ref\NatLab11.dll
